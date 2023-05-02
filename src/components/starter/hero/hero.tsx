@@ -7,11 +7,10 @@ export default component$(() => {
       <h1>
         So <span class="highlight">fantastic</span>
         <br />
-        to have <span class="highlight">you</span>
-        <br />
-        at Fishkos
+        to have <span class="highlight">you</span> at
+        <br /> Fishkos
       </h1>
-      <p>Have fun eating out fast fish sticks.</p>
+      <p>Have fun eating our resumable fish sticks.</p>
       <div class={styles['button-group']}>
         <button
           onClick$={async () => {
