@@ -70,5 +70,5 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Qwik Todo List',
+  title: 'Fishkos Todo List',
 };
