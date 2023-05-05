@@ -1,4 +1,4 @@
-# Resumable Fish Sticks ⚡️
+# Resumable Fish Sticks 🐠 ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
